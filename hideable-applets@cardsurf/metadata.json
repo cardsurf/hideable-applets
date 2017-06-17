@@ -1,5 +1,5 @@
 {
-    "description": "Sets visibilities of applets",
+    "description": "Hides applets",
     "version": "1.0.0",
     "uuid": "hideable-applets@cardsurf",
     "name": "Hideable applets"
